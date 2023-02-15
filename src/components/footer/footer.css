@@ -1,0 +1,39 @@
+.footer-reserve{
+   bottom: 0;
+   width: 100%;
+   background-color: rgb(207, 206, 206);
+}
+
+.footer-container{
+    display: flex;
+    align-items: baseline;
+   max-width: 1024px;
+   margin: auto;
+
+    
+}
+.footer-left{
+    width: 50%;
+    margin-left: 40px;
+    align-items: center;
+}
+
+.footer-head{
+    padding: 0;
+    color: orange;
+    font-size: 25px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+.footer-right{
+    width: 50%;
+    display: flex;
+    gap: 70px;
+}
+.footer-about h4{
+    margin-bottom: 12px;
+}
+
+.footer-links h4{
+    margin-bottom: 12px;
+}

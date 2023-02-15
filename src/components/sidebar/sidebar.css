@@ -1,0 +1,46 @@
+.sidenav{
+    width: 240px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.filter-group{
+    width: 200px;
+    border: 1px solid gray;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.departure-group{
+    width: 200px;
+    border: 1px solid gray;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.select-1 select{
+    width: 200px;
+    font-size: 15px;
+    padding: 5px;
+}
+
+.search input{
+    width: 200px;
+}
+
+.select-2 select{
+    width: 200px;
+    font-size: 15px;
+    padding: 5px;
+}
+
+.select-3 select{
+    width: 200px;
+    font-size: 15px;
+    padding: 5px;
+}

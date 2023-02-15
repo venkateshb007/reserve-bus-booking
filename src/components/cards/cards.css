@@ -1,0 +1,65 @@
+.busdetail-card{
+    display: flex;
+    align-items: center;
+    width: 700px;
+    margin-top: 20px;
+    border: 1.5px solid gray;
+    border-radius: 6px;
+    padding: 10px;
+}
+.left-card{
+    width: 70%;
+}
+
+.right-card{
+    width: 30%;
+    height: 100%;
+    text-align: center;
+}
+
+.bus-details{
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.bus-name{
+    font-size: medium;
+    font-weight: bold;
+}
+
+.bus-rating{
+    background-color: green;
+    padding: 2px;
+    border-radius: 4px;
+    color: white;
+}
+
+.bus-amenities{
+    display: flex;
+    align-items: center;
+    font-size: small;
+    color: gray;
+}
+
+.bus-timing{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.extra-details{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+
+}
+
+.viewseat-btn{
+    border: none;
+    background-color: orange;
+    width: 100px;
+    height: 30px;
+    border-radius: 6px;
+
+}
